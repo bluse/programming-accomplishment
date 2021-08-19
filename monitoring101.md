@@ -11,7 +11,7 @@ some is primarily valuable for investigating problems.
 More broadly, having monitoring data is a necessary condition for observability into the inner workings of your systems.  
 更广泛的说，拥有监控数据是可观察到系统内部工作的必要条件。  
 This post covers which data to collect, and how to classify that data so that you can:  
-这篇文章介绍了要收集哪些数据，以及如何对这些数据进行分类，以便您可以：
+这篇文章介绍了要收集哪些数据，以及如何对这些数据进行分类，以便您可以：  
 1.Receive meaningful, automated alerts for potential problems  
   接收有关潜在问题的有意义的自动报警  
 2.Quickly investigate and get to the bottom of performance issues  
